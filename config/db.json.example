@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username":"lafemme",
+    "password":"tK:;}yW7~KsWwTkj",
+    "database": "LaFemme",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jarvis",
+    "password": null,
+    "database": "laFemme-test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "staging": {
+    "username": "jarvis",
+    "password": "JzV7hK9BbZvBVu",
+    "database": "laFemme",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

@@ -1,0 +1,22 @@
+
+//POST http://localhost:8001/users
+
+{
+  "email": "manicurista4@gmail.com",
+  "password": "worker",
+  "accountId": "00000000-0000-0000-0000-000000000000",
+  "roles": [
+    "ServiceSpecialistUser"  /// Add as a sepecialist
+  ],
+  "groups": [
+    "87847de7-5426-4ff2-b6d1-66e49a1b74c7" /// Specialist groups not working yet
+  ],
+  "supervisors": [],
+  "workerAccount": false,
+  "firstName": "Manicurista 5",
+  "phoneNumber": "3092020302",
+  "lastName": "MAN",
+  "city": "Medellin",
+  "address": "NO way",
+  "DNI": "232321434324"
+}
